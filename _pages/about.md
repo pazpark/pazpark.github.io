@@ -10,9 +10,8 @@ redirect_from:
 
 I am currently a Flatiron Research Scientist, a permanent research appointment at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), working under the leadership of Director [Michael Shelley](https://www.simonsfoundation.org/people/michael-shelley/) and Deputy director of Genomics [Olga Troyanskaya](https://www.simonsfoundation.org/people/olga-troyanskaya/). The Flatiron Institute is an internal research division of the Simons Foundation with a mission to advance our understanding of science, both through the analysis of large, rich datasets and through theory, modeling and simulation.
 
-I also hold a Visiting Research Scholar title at the [Lewis-Sigler Institute for integrative genomics](https://lsi.princeton.edu) at Princeton University.
+I also hold a Visiting Research Scholar title at the [Lewis-Sigler Institute for Integrative Genomics](https://lsi.princeton.edu) at Princeton University.
 
-<td>
 Research Interests
 ------
 * RNA neurobiology
@@ -21,17 +20,11 @@ Research Interests
 * Hormone circuits
 * Machine learning
 
-</td>
-<td>
 Education
 ------
 Postdoctoral Researcher, Rockefeller University & New York Genome Center, 2018
 Ph.D. in Computer Science, Princeton University, 2014
 B.S. in Biochemistry and Computer Science, University of Washington, Seattle, 2007
-
-</td>
-
-
 
 ## Contact:
 [Center for Computational Biology](https://www.simonsfoundation.org/flatiron/center-for-computational-biology/)
