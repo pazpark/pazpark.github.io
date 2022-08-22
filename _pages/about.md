@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a Flatiron Research Scientist, a permanent research appointment at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), working under the leadership of Director [Michael Shelley](https://www.simonsfoundation.org/people/michael-shelley/) and Deputy director of Genomics [Olga Troyanskaya](https://www.simonsfoundation.org/people/olga-troyanskaya/). The Flatiron Institute is an internal research division of the Simons Foundation with a mission to advance our understanding of science, both through the analysis of large, rich datasets and through theory, modeling and simulation.
+
+I also hold a Visiting Research Scholar title at [Princeton University, Lewis-Sigler Institute for integrative genomics](https://lsi.princeton.edu).
+
+
+## Contact:
+[Center for Computational Biology](https://www.simonsfoundation.org/flatiron/center-for-computational-biology/)
+<br> [Simons Foundation](https://www.simonsfoundation.org/), [Flatiron Institute](https://www.simonsfoundation.org/flatiron/)
+<br> Email: cpark@flatironinstitute.org
 
 A data-driven personal website
 ======
