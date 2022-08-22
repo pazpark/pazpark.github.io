@@ -1,23 +1,4 @@
-﻿---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-<!---
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
---->
-
-[Shift in MSL1 alternative polyadenylation in response to DNA damage protects cancer cells from chemotherapeutic agent-induced apoptosis.](https://pubmed.ncbi.nlm.nih.gov/34644577/)
+﻿[Shift in MSL1 alternative polyadenylation in response to DNA damage protects cancer cells from chemotherapeutic agent-induced apoptosis.](https://pubmed.ncbi.nlm.nih.gov/34644577/)
 Alexander K Kunisky, Vivian I Anyaeche, R Samuel Herron, **Christopher Y. Park**, Hun-Way Hwang.
 *Cell Reports*, 2021.
 
