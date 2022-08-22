@@ -2,8 +2,8 @@
 
 url: http://localhost:4000
 
-analytics: True
-  provider: "custom"
+analytics: 
+  provider: false
 
 comments:
   disqus:
