@@ -46,7 +46,7 @@ Kirsty Sawicka, Caryn R Hale, **Christopher Y. Park**, John J Fak, Jodi E Gresac
 *eLife*, 2019.
 
 [Whole-genome deep learning analysis identifies contribution of noncoding mutations to autism risk.](https://pubmed.ncbi.nlm.nih.gov/31133750/)\
-Jian Zhou<sup>*</sup>, **Christopher Y. Park<sup>&#x2605;</sup>**, Chandra L. Theesfeld<sup>*</sup>, Yuan Yuan4, Claudia Scheckel, John J Fak, Yoko Tajima, Robert B. Darnell, Olga G. Troyanskaya. (&#x2605; co-first authors)\
+Jian Zhou<sup>\*</sup>, **Christopher Y. Park<sup>&#x2605;</sup>**, Chandra L. Theesfeld<sup>\*</sup>, Yuan Yuan4, Claudia Scheckel, John J Fak, Yoko Tajima, Robert B. Darnell, Olga G. Troyanskaya. (&#x2605; co-first authors)\
 *Nature Genetics*, 2019.
 
 [AGO CLIP Reveals an Activated Network for Acute Regulation of Brain Glutamate Homeostasis in Ischemic Stroke.](https://pubmed.ncbi.nlm.nih.gov/31340158/)\
@@ -58,7 +58,7 @@ Young-suk Lee, Aaron K Wong, Alicja Tadych, Boris M Hartmann, **Christopher Y. P
 *Nature methods*, 2018.
 
 [ZFP36 RNA-binding proteins restrain T-cell activation and anti-viral immunity.](https://pubmed.ncbi.nlm.nih.gov/29848443/)\
-Michael J Moore, Nathalie E Blachere, John J Fak, **Christopher Y. Park**, Kirsty Sawicka, Salina Parveen, Ilana Zucker-Scharff, Bruno Moltedo, Alexander Rudensky, Robert Darnell. 
+Michael J Moore, Nathalie E Blachere, John J Fak, **Christopher Y. Park**, Kirsty Sawicka, Salina Parveen, Ilana Zucker-Scharff, Bruno Moltedo, Alexander Rudensky, Robert Darnell.\ 
 *eLife*, 2018.
 
 [cTag-PAPERCLIP Reveals Alternative Polyadenylation Promotes Cell-Type Specific Protein Diversity and Shifts Araf Isoforms with Microglia Activation.](https://pubmed.ncbi.nlm.nih.gov/28910620/)\
@@ -86,7 +86,7 @@ Shengdong Ke, Endalkachew A Alemu, Claudia Mertens, Emily Conn Gantman, John J F
 *Genes & Development*, 2015.
 
 [Interactive Big Data Resource to Elucidate Human Immune Pathways and Diseases.](https://pubmed.ncbi.nlm.nih.gov/26362267/)\
-Dmitriy Gorenshteyn<sup>*</sup>, Elena Zaslavsky<sup>*</sup>, Miguel Fribourg<sup>*</sup>, **Christopher Y. Park<sup>&#x2605;</sup>**, Aaron K Wong, Alicja Tadych, Boris M Hartmann, Randy A Albrecht, Adolfo García-Sastre, Steven H Kleinstein, Olga G Troyanskaya, Stuart C Sealfon. (&#x2605; co-first authors)\
+Dmitriy Gorenshteyn<sup>\*</sup>, Elena Zaslavsky<sup>\*</sup>, Miguel Fribourg<sup>\*</sup>, **Christopher Y. Park<sup>&#x2605;</sup>**, Aaron K Wong, Alicja Tadych, Boris M Hartmann, Randy A Albrecht, Adolfo García-Sastre, Steven H Kleinstein, Olga G Troyanskaya, Stuart C Sealfon. (&#x2605; co-first authors)\
 *Immunity*, 2015.
 
 [Tissue-aware data integration approach for the inference of pathway interactions in metazoan organisms.](https://pubmed.ncbi.nlm.nih.gov/25431329/)\
@@ -94,11 +94,11 @@ Dmitriy Gorenshteyn<sup>*</sup>, Elena Zaslavsky<sup>*</sup>, Miguel Fribourg<su
 *Bioinformatics*, 2015.
 
 [Functional knowledge transfer for high-accuracy prediction of under-studied biological processes.](https://pubmed.ncbi.nlm.nih.gov/23516347/)\
-**Christopher Y. Park<sup>&#x2605;</sup>**, Aaron K. Wong<sup>*</sup>, Casey S. Greene<sup>*</sup>, Jessica Rowland, Yuanfang Guan, Rebecca D. Burdine and Olga G. Troyanskaya. (&#x2605; co-first authors)\
+**Christopher Y. Park<sup>&#x2605;</sup>**, Aaron K. Wong<sup>\*</sup>, Casey S. Greene<sup>\*</sup>, Jessica Rowland, Yuanfang Guan, Rebecca D. Burdine and Olga G. Troyanskaya. (&#x2605; co-first authors)\
 *PLoS Computational Biology*, 2013.
 
 [IMP: a multi-species functional genomics portal for integration, visualization and prediction of protein functions and networks.](https://pubmed.ncbi.nlm.nih.gov/23516347/)\
-Aaron K. Wong<sup>*</sup>, **Christopher Y. Park<sup>&#x2605;</sup>**, Casey S. Greene<sup>*</sup>, Lars A. Bongo, Yuanfang Guan and Olga G. Troyanskaya. (&#x2605; co-first authors)\
+Aaron K. Wong<sup>\*</sup>, **Christopher Y. Park<sup>&#x2605;</sup>**, Casey S. Greene<sup>\*</sup>, Lars A. Bongo, Yuanfang Guan and Olga G. Troyanskaya. (&#x2605; co-first authors)\
 *Nucleic Acids Research*, 2012.\
 Selected as NAR Editor’s featured article representing top 5% papers in terms of scientific excellence
 
@@ -111,6 +111,6 @@ Aaron A. Klammer, **Christopher Y. Park** and William Stafford Noble.\
 *Journal of Proteome Research*, 2009.
 
 [Rapid and accurate peptide identification from tandem mass spectra.](https://pubmed.ncbi.nlm.nih.gov/18505281/)\
-**Christopher Y. Park<sup>&#x2605;</sup>**, Aaron A. Klammer<sup>*</sup>, Lukas Käll, Michael J. MacCoss and William Stafford Noble. (&#x2605; co-first authors)\
+**Christopher Y. Park<sup>&#x2605;</sup>**, Aaron A. Klammer<sup>\*</sup>, Lukas Käll, Michael J. MacCoss and William Stafford Noble. (&#x2605; co-first authors)\
 *Journal of Proteome Research*, 2008.
 
