@@ -58,7 +58,7 @@ Young-suk Lee, Aaron K Wong, Alicja Tadych, Boris M Hartmann, **Christopher Y. P
 *Nature methods*, 2018.
 
 [ZFP36 RNA-binding proteins restrain T-cell activation and anti-viral immunity.](https://pubmed.ncbi.nlm.nih.gov/29848443/)\
-Michael J Moore, Nathalie E Blachere, John J Fak, **Christopher Y. Park**, Kirsty Sawicka, Salina Parveen, Ilana Zucker-Scharff, Bruno Moltedo, Alexander Rudensky, Robert Darnell.\ 
+Michael J Moore, Nathalie E Blachere, John J Fak, **Christopher Y. Park**, Kirsty Sawicka, Salina Parveen, Ilana Zucker-Scharff, Bruno Moltedo, Alexander Rudensky, Robert Darnell.\
 *eLife*, 2018.
 
 [cTag-PAPERCLIP Reveals Alternative Polyadenylation Promotes Cell-Type Specific Protein Diversity and Shifts Araf Isoforms with Microglia Activation.](https://pubmed.ncbi.nlm.nih.gov/28910620/)\
