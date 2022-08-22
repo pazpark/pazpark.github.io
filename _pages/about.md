@@ -27,7 +27,7 @@ Education
 ------
 Postdoctoral Researcher, Rockefeller University & New York Genome Center, 2018
 
-Ph.D. in Computer Science and Lewis-Sigler Institute for Integrative Genomics, Princeton University, 2014
+Ph.D. in Computer Science (focus on Computational Biology), Princeton University, 2014
 
 B.S. in Biochemistry and Computer Science, University of Washington, Seattle, 2007
 
