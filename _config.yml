@@ -72,8 +72,8 @@ social:
 
 
 # Analytics
-analytics: False
-  provider               :  false ##"google" false (default), "google", "google-universal", "custom"
+analytics:
+  provider               :  
   google: 
     tracking_id          : 
 
